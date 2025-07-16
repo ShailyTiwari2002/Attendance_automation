@@ -59,3 +59,10 @@ Attendance_Automation/
 
 
 ---
+
+##Snapshots
+<img width="1498" height="832" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/2211be33-746e-43a8-a4b6-dd6c549e66d1" />
+<img width="712" height="209" alt="Screenshot 2025-07-16 153018" src="https://github.com/user-attachments/assets/7c83abbb-0066-441c-b143-f80f1c90c169" />
+<img width="923" height="203" alt="Screenshot 2025-07-16 153208" src="https://github.com/user-attachments/assets/43e875a0-a1dc-4b8d-be00-0f8c0bf5a68c" />
+
+
